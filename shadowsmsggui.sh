@@ -5,9 +5,9 @@
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
 #Youtube channel : https://youtube.com/channel/UCNBo6W3YgckZ5BWtBAhgXdg
-# (coded by root shadow ) >>> :
+# (coded by root shadow ) >>> 
 #For business : @root.shadow
-#rootarmy☠️
+#shadowarmy☠️
 #==========================================================================================================================
 #==========================================================================================================================
 
