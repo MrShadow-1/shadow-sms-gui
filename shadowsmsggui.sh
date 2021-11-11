@@ -4,7 +4,7 @@
 #Shadow-sms-gui v2.9
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw
+#Youtube channel : https://youtube.com/channel/UCNBo6W3YgckZ5BWtBAhgXdg
 # (coded by root shadow ) >>> :
 #For business : @root.shadow
 #rootarmy☠️
@@ -40,7 +40,7 @@ fi
 scs(){
 
 
-zenity --info --width=200 --title Shadow-sms v2.1 --text "Attacking starting"
+zenity --info --width=200 --title Shadow-smsv2.1 --text "Attacking starting"
 menu
 
 }
